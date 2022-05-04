@@ -1,0 +1,13 @@
+@import "../variables/variables";
+
+section {
+  h1 {
+    text-align: $centrar;
+    font-size: $MuchoEm;
+    font-family: $fuenteUno;
+  }
+  p {
+    margin: $PocoEm;
+    font-family: $fuenteDos;
+  }
+}

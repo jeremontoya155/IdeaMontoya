@@ -1,0 +1,10 @@
+@import "../variables/variables";
+
+footer {
+  margin-top: $MedioEm;
+  width: $completo;
+  height: $altura;
+  text-align: $centrar;
+  background-color: $colorExtremos;
+  font-family: $fuenteUno;
+}

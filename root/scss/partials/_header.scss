@@ -1,0 +1,18 @@
+@import "../variables/variables";
+
+header {
+  nav {
+    width: $completo;
+    display: $dist;
+    justify-content: $distNav;
+    background-color: $colorExtremos;
+    font-family: $fuenteUno;
+    flex-wrap: wrap;
+  }
+
+  a {
+    font-size: $MedioEm;
+    text-decoration: $vacio;
+    color: $colorLetraNav;
+  }
+}
